@@ -1,1 +1,1 @@
-I have learned about Git, GitHub authentication, and how to commit and push changes from the command line.
+What I have learned from this course
